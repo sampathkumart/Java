@@ -1,6 +1,5 @@
 package com.codewithjava;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class Main {
 
